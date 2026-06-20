@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/najiya-portfolio/static/css/main.60d629b5.css",
+    "main.js": "/najiya-portfolio/static/js/main.f523e7be.js",
+    "static/js/453.c24751ce.chunk.js": "/najiya-portfolio/static/js/453.c24751ce.chunk.js",
+    "static/media/profile.jpg": "/najiya-portfolio/static/media/profile.96ea3a44e0f69d314c61.jpg",
+    "index.html": "/najiya-portfolio/index.html",
+    "main.60d629b5.css.map": "/najiya-portfolio/static/css/main.60d629b5.css.map",
+    "main.f523e7be.js.map": "/najiya-portfolio/static/js/main.f523e7be.js.map",
+    "453.c24751ce.chunk.js.map": "/najiya-portfolio/static/js/453.c24751ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60d629b5.css",
+    "static/js/main.f523e7be.js"
+  ]
+}
