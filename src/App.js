@@ -8,7 +8,7 @@ import Skills from "./components/skills";
 import Projects from "./components/projects";
 import Contact from "./components/contact";
 
-function App() {s
+function App() {
   return (
     <HashRouter>
       <Navbar />
